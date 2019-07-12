@@ -4,9 +4,10 @@ A new Flutter project.
 
 ## Getting Started
 
-Tutorial credit:
+**Tutorial credit:**
 - [Click here](https://www.youtube.com/watch?v=5KbiU-93-yU)
-![Foto]()
+
+- ![Screem](https://github.com/rafaelbatistaroque/improving_flutter_app_ui/blob/master/img/screemShot.png)
 
 A few resources to get you started if this is your first Flutter project:
 
